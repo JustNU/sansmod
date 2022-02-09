@@ -1,0 +1,19 @@
+{
+    "manifest": [
+		{
+            "key": "sans/Headwear/weldingmask.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "sans/Tops/hoodie.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps"
+            ]
+        }
+    ]
+}

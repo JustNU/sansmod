@@ -1,0 +1,75 @@
+{
+	"GuestGearDigitalFlora_ZHUK6A": {
+        "Description": "Class 6 protection armored vest designed for assault units. Based on the Gzhel armor, serving as its lightweight copy.\n",
+        "Name": "BNTI Zhuk-6a heavy armor (Digital Flora, variant 2)",
+        "ShortName": "Zhuk-6a"
+    },
+	"GuestGearDigitalFlora_ATTACK_SSO": {
+        "Description": "The 60-liter \"Attack 2\" raid backpack is intended for carrying personal belongings and equipment through tough field conditions.",
+		"Name": "SSO \"Attack 2\" raid backpack (Digital Flora)",
+		"ShortName": "Attack 2 DF"
+    },
+	"GuestGearDigitalFlora_BETA2": {
+        "Description": "A lightweight and capacious backpack from ANA Tactical. Specially designed for use in dynamic conditions and on rough terrain.",
+		"Name": "ANA Tactical Beta 2 Battle backpack (Digital Flora)",
+		"ShortName": "Beta2 DF"
+    },
+	"GuestGearDigitalFlora_LSHZ2_AVENTAIL": {
+        "Description": "Additional armor protection for lower back head part and neck for LSHZ-2DTM helmet.",
+		"Name": "LSHZ-2DTM Aventail (Digital Flora)",
+		"ShortName": "Aventail DF"
+    },
+	"GuestGearDigitalFlora_LSHZ2_COVER": {
+        "Description": "Anti-glare cover in digital flora camo pattern for LSHZ-2DTM helmet.",
+		"Name": "LShZ-2DTM cover (Digital Flora)",
+		"ShortName": "Cover DF"
+    },
+	"GuestGearDigitalFlora_CPCMOD2": {
+        "Description": "The second generation of modification of the CPC body armor designed by Crye Precision and adapted by Ars Arma for use by special forces of the Russian Federation. This modular body armor is based on a polymer corset that fits the body, which avoids the backlash of the body arm during active movement and also contributes to an evener distribution of weight. Made in the assault configuration of pouches and armor elements.",
+		"Name": "Ars Arma CPC MOD.2 plate carrier (Digital Flora)",
+		"RigLayoutName": "CPC MOD2",
+		"ShortName": "CPC MOD2 DF"
+    },
+	"GuestGearDigitalFlora_ANA_M1": {
+        "Description": "Tactical rig with additional class 4 armor plates. The vest is created with the use of the best experience of Russian special forces operators. The versatility of the system makes it possible to use this vest both when carrying out city tasks and when performing tasks on rough terrain. Equipped with additional pouches. Manufactured by ANA Tactical.",
+		"Name": "ANA Tactical M1 armored rig (Digital Flora)",
+		"RigLayoutName": "ANA M1",
+		"ShortName": "ANA M1 DF"
+    },
+	"GuestGearDigitalFlora_TRITON": {
+        "Description": "Designed to place and carry elements of ammunition and equipment for use in moderate and hot climates. Manufactured by Dynaforce.",
+		"Name": "Dynaforce Triton M43-A chest harness (Digital Flora)",
+		"RigLayoutName": "Triton",
+		"ShortName": "Triton DF"
+    },
+	"GuestGearDigitalFlora_InfilTop": {
+        "Description": "",
+		"Name": "Combat Shirt (Digital Flora)",
+		"ShortName": ""
+    },
+	"GuestGearDigitalFlora_GorkaSSOTop": {
+        "Description": "",
+		"Name": "Ghost Marksman (Digital Flora)",
+		"ShortName": ""
+    },
+	"GuestGearDigitalFlora_TigrTop": {
+        "Description": "",
+		"Name": "TIGR (Digital Flora)",
+		"ShortName": ""
+    },
+	"GuestGearDigitalFlora_InfilBottom": {
+        "Description": "",
+		"Name": "Combat Pants (Digital Flora)",
+		"ShortName": ""
+    },
+	"GuestGearDigitalFlora_GorkaSSOBottom": {
+        "Description": "",
+		"Name": "Gorka SSO (Digital Flora)",
+		"ShortName": ""
+    },
+	"GuestGearDigitalFlora_TigrBottom": {
+        "Description": "",
+		"Name": "TIGR (Digital Flora)",
+		"ShortName": ""
+    }
+}
